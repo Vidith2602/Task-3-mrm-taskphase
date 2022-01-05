@@ -1,0 +1,51 @@
+h1{
+    font-size: 40px;
+}
+a { 
+    display: block;
+    text-decoration: none;
+    color: darkblue;
+}
+
+body{
+    text-align: center;
+    padding: 20px;
+    background-image: url(BG.IMG);
+}
+
+.form{
+    padding:20px;
+    margin: auto;
+    width: 40%;
+    
+    background-color:  gray;
+    border: solid rgb(189, 1, 1) 5px;
+}
+.form-label label{
+    padding-top: 20px;
+    display:block;
+    margin: 10px;
+    color: yellow;
+
+             
+}
+.form-label input[type="submit"]{
+    background-color: black;
+    color: coral;
+    padding: 5px;
+}
+
+    .form-label input[type="text"]{
+        text-align: center;
+    }
+    .form-label input[type="submit"]{
+        margin-top:15px;
+        padding top:10px;
+    }
+    .check{
+        margin: 10px;
+    }
+    .form-label input[type="submit"]{
+        padding bottom:10 px;
+    }
+
